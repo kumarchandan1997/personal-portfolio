@@ -62,20 +62,10 @@ $(document).ready(function () {
   // <!-- emailjs to mail contact form data -->
 });
 
-// document.addEventListener("DOMContentLoaded", function() {
-
-//     const viewAllButton = document.querySelector("#show_all_project");
-
-//     viewAllButton.addEventListener("click", function(event) {
-//         alert("test");
-//         event.preventDefault();
-//         fetchProjectsAndShow();
-//     });
-// });
 
 document.addEventListener("visibilitychange", function () {
   if (document.visibilityState === "visible") {
-    document.title = "Portfolio | Jigar Sable";
+    document.title = "Portfolio | Chandan Yadav";
     $("#favicon").attr("href", "assets/images/favicon.png");
   } else {
     document.title = "Come Back To Portfolio";
