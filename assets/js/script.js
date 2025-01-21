@@ -77,6 +77,7 @@ document.addEventListener("visibilitychange", function () {
 var typed = new Typed(".typing-text", {
   strings: [
     "Laravel Developer",
+    "Nodejs Developer",
     "Filamet Developer",
     "Php Developer",
     "web development",
