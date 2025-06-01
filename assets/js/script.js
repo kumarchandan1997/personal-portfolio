@@ -77,10 +77,11 @@ document.addEventListener("visibilitychange", function () {
 var typed = new Typed(".typing-text", {
   strings: [
     "Laravel Developer",
-    "Nodejs Developer",
+    "React js Developer",
     "Filamet Developer",
     "Php Developer",
     "web development",
+    "Nodejs Developer",     
   ],
   loop: true,
   typeSpeed: 50,
